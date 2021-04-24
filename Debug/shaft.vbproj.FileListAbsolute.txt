@@ -1,0 +1,12 @@
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.vbprojAssemblyReference.cache
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.Form1.resources
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.Resources.resources
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.vbproj.GenerateResource.cache
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.vbproj.CoreCompileInputs.cache
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\bin\Debug\shaft.exe.config
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\bin\Debug\shaft.exe
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\bin\Debug\shaft.pdb
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\bin\Debug\shaft.xml
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.exe
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.xml
+C:\Users\chaturvedi ji\source\repos\shaft\shaft\obj\Debug\shaft.pdb
